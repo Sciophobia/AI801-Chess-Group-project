@@ -20,7 +20,6 @@ There are two ways you can run the game
   1) The first if you want to run the simulation to see how we were able to train the AI you should run the Simulator.py. Whne you run this you specify the amount of games with the variable "num_simulated_games". The more you specify the more games the model will run and train on
   2) If you want to play against our AI all you have to do is run main which is found in our src folder (for more accurate descriptions of the file structure look below) When you run main.py a tkinter window will display which allows us to play against the AI.
 
-The AI is still very basic and will make mistakes, but the premise is there to create a great chess AI.
 
 --------------------------------
 # Team Members
@@ -34,9 +33,9 @@ Matthew Chiaravalloti
   5) Commented the Code and structured the files
      
 TJ (Timothy) Gallagher
-  1) Developed MCTS algorith
+  1) Developed MCTS algorithm
   2) Developed the Alpha-Beta Pruning algorithms
-  3) Developed the CNN models and engine
+  3) Developed the CNN models and tensor engine
 
 Jennifer Yin
   1) ???
